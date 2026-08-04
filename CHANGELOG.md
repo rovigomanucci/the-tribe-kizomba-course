@@ -36,3 +36,4 @@
 - Expanded Level 2 Week 7 into a detailed 60-minute plan covering recovery-led redirection, counterbalance exits, controlled crosses, and optional dynamic variations.
 - Expanded Level 2 Week 8 into a detailed 60-minute integration challenge centred on vocabulary selection, musical texture, partner adaptation, simplification, and recovery.
 - Completed detailed teaching plans for all eight Level 2 classes; the published HTML remains intentionally unchanged pending a separate artifact update.
+- Corrected Level 1 Week 1 so Basic 2 is taught before Basic 1 in both solo and partnered sections, aligning it with the approved Open Night progression.
