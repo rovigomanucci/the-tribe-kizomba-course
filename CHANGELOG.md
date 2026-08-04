@@ -20,3 +20,10 @@
 - Expanded Level 1 Week 1 into a detailed 60-minute teaching plan using leader-role and follower-role responsibilities throughout.
 - Expanded the reusable class-plan template to the approved 60-minute, role-based teaching format.
 - Expanded Level 1 Week 2 into a detailed 60-minute plan covering Basic 3, walking, stopping, restarting, and floorcraft.
+- Expanded Level 1 Week 3 into a detailed 60-minute plan covering clockwise Estrela, shared-centre rotation, exits, and circular floorcraft.
+- Expanded Level 1 Week 4 into a detailed 60-minute plan covering Leader's Saída, corridor position, lane awareness, and return to social flow.
+- Expanded Level 1 Week 5 into a detailed 60-minute plan covering Follower's Saída, free-leg recognition, lateral pathways, and simple returns.
+- Expanded Level 1 Week 6 into a detailed 60-minute plan covering simple Vírgula, Retrocesso, redirection exits, and immediate recovery.
+- Expanded Level 1 Week 7 into a detailed 60-minute plan covering balanced pauses, non-weighted taps, delayed exits, and optional timing texture.
+- Expanded Level 1 Week 8 into a detailed 60-minute integration plan centred on complete-song social flow, adaptability, floorcraft, and recovery.
+- Completed detailed teaching plans for all eight Level 1 classes; the published HTML remains intentionally unchanged until the Level 2 plans are complete.
