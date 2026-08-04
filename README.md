@@ -54,3 +54,14 @@ Every class gives students a recognisable move or movement family. The move acts
 - `templates/`: reusable planning and review templates
 - `outputs/`: final human-facing artifacts
 - `index.html`: deployed interactive curriculum artifact
+- `scripts/build-site.mjs`: rebuilds the web artifact from the canonical Markdown class files
+
+## Rebuild the web artifact
+
+After changing a class file, run:
+
+```bash
+node scripts/build-site.mjs
+```
+
+Commit the updated Markdown and generated `index.html` together. Vercel publishes `index.html` from the GitHub repository.

@@ -35,6 +35,8 @@ Level 1 includes:
 - Basic timing changes
 - Floorcraft and recovery
 
+Level 1 Week 1 introduces Basic 2 before Basic 1. This gives beginners an immediate visible movement choice before moving into the more grounded Basic 1 feeling.
+
 ### Level 2 content
 
 Level 2 includes:
