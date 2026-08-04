@@ -40,3 +40,4 @@
 - Rebuilt the interactive teaching guide around level tabs, persistent weekly navigation, full lesson views, searchable content, progress tracking, responsive layouts, and teaching-note panels.
 - Added a repeatable site generator that transforms the canonical Markdown class files into the deployed `index.html` artifact.
 - Added persistent light and dark themes to the teaching guide, including accessible toggle labels and theme-specific colour contrast.
+- Set Open Night as the default landing view while preserving direct links to individual lessons.

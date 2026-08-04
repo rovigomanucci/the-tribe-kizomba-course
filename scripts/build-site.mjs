@@ -224,7 +224,7 @@ const html = `<!doctype html>
 <div class="search-wrap" id="searchWrap"><div class="search-box"><input id="searchInput" type="search" placeholder="Search classes, moves, and foundations" aria-label="Search curriculum"><div class="results" id="results"></div></div></div>
 <script>
 const programme=${data};
-const state={level:1,lesson:'l1w1'};
+const state={level:0,lesson:'open-night'};
 let storage;try{storage=window.localStorage;storage.getItem('tribe-kizomba-storage-test')}catch(error){storage={getItem:()=>null,setItem:()=>{}}}const progress=JSON.parse(storage.getItem('tribe-kizomba-taught')||'{}');
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const list=items=>items?.length?'<ul>'+items.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul>':'<p>Not specified in the current plan.</p>';
