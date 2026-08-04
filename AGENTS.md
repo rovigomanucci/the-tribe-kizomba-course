@@ -12,6 +12,7 @@ Name Traditional Kizomba, Semba, Urban Kiz, Tarraxinha, and Fusion techniques ac
 
 ## Current course structure
 
+- Kizomba Open Night before each cycle
 - Level 1: Kizomba Foundations and Social Flow
 - Level 2: Kizomba Fusion Techniques and Musicality
 - Eight weekly classes per level
@@ -49,12 +50,14 @@ Every class file must contain:
 
 ## Source-of-truth rules
 
+- This GitHub repository is the sole canonical source for the curriculum knowledge base.
 - Treat `DECISIONS.md` and files marked Approved as authoritative.
 - Do not overwrite approved decisions silently.
 - Log significant changes in `CHANGELOG.md`.
 - Flag contradictions before modifying several files.
 - Keep historical notes in the changelog rather than duplicating obsolete content.
 - Do not invent video timestamps, lineage claims, or safety standards.
+- Google Drive may be retained temporarily as an archive, but it must not be edited as a parallel source.
 
 ## Writing style
 
@@ -66,6 +69,7 @@ Every class file must contain:
 
 ## Artifact rules
 
-- Markdown files are the canonical knowledge base.
-- Word, PDF, slide, and spreadsheet files are generated outputs.
+- Markdown files in this GitHub repository are the canonical knowledge base.
+- Word, PDF, slide, spreadsheet, and web files are generated outputs.
+- Vercel hosts the published web artifact.
 - Do not treat generated outputs as more authoritative than the Markdown source files.
