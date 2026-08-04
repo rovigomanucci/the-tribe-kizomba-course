@@ -12,3 +12,8 @@
 - Added a draft 60-minute Open Night class plan.
 - Added an Open Night review log for live testing and iteration.
 - Updated the repository map and draft decisions to include Open Night.
+- Migrated the complete Markdown curriculum knowledge base from Google Drive into GitHub.
+- Added all sixteen weekly class specifications to `classes/level-1/` and `classes/level-2/`.
+- Added strategy, curriculum, library, research, templates, and outputs guidance to GitHub.
+- Declared GitHub the sole canonical source of truth and Vercel the published web host.
+- Reclassified Google Drive as a temporary read-only archive rather than a parallel source.
