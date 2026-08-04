@@ -41,3 +41,4 @@
 - Added a repeatable site generator that transforms the canonical Markdown class files into the deployed `index.html` artifact.
 - Added persistent light and dark themes to the teaching guide, including accessible toggle labels and theme-specific colour contrast.
 - Set Open Night as the default landing view while preserving direct links to individual lessons.
+- Set the light theme as the default for new visitors while preserving saved theme preferences.
