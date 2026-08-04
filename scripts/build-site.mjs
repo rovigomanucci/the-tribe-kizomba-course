@@ -185,7 +185,7 @@ const openLesson = {
   sequence: parseOpenNightSequence(openMarkdown),
 };
 
-const programme = [{ id: 'open-night', label: 'Open Night', name: 'Open Night', descriptor: 'A 60-minute first Kizomba experience.', readiness: 'Complete beginners welcome.', lessons: [openLesson] }, ...levels];
+const programme = [{ id: 'open-night', level: 0, label: 'Open Night', name: 'Open Night', descriptor: 'A 60-minute first Kizomba experience.', readiness: 'Complete beginners welcome.', lessons: [openLesson] }, ...levels];
 const lessonCount = programme.reduce((total, level) => total + level.lessons.length, 0);
 if (lessonCount !== 17) throw new Error(`Expected 17 classes, found ${lessonCount}.`);
 for (const lesson of programme.flatMap(level => level.lessons)) {
