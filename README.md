@@ -2,13 +2,20 @@
 
 ## Purpose
 
-This repository is the source of truth for designing, teaching, reviewing, and improving The Tribe's Kizomba courses.
+This GitHub repository is the sole source of truth for designing, teaching, reviewing, and improving The Tribe's Kizomba courses.
 
 The current scope contains:
 
 - Kizomba Open Night: a 60-minute introductory class before each cycle
 - Level 1: Kizomba Foundations and Social Flow
 - Level 2: Kizomba Fusion Techniques and Musicality
+
+## Storage and publishing model
+
+- GitHub stores the canonical Markdown knowledge base.
+- Vercel hosts the published interactive web artifact.
+- Google Drive may be retained temporarily as a read-only archive during migration, but it is not a parallel source of truth.
+- Word, PDF, slide, spreadsheet, and web files are generated outputs and must be reproducible from the Markdown source.
 
 ## How to use this repository
 
@@ -19,7 +26,7 @@ The current scope contains:
 5. Use `library/` for movement definitions, terminology, videos, and safety.
 6. Use `research/` for evidence, references, and unresolved questions.
 7. Use `templates/` when producing new lesson plans or reviews.
-8. Save final documents, slide decks, PDFs, and spreadsheets in `outputs/`.
+8. Save final documents, slide decks, PDFs, spreadsheets, and generated web files in `outputs/` or the appropriate deployment source.
 
 ## Status language
 
@@ -34,8 +41,9 @@ Every class gives students a recognisable move or movement family. The move acts
 
 ## Project map
 
-- `AGENTS.md`: instructions for AI agents working in this folder
+- `AGENTS.md`: instructions for AI agents working in this repository
 - `DECISIONS.md`: approved decisions and open questions
+- `CHANGELOG.md`: significant project changes
 - `strategy/`: course identity and teaching model
 - `curriculum/`: level overviews and progression logic
 - `classes/open-night/`: introductory class plan and live-session reviews
@@ -45,3 +53,4 @@ Every class gives students a recognisable move or movement family. The move acts
 - `research/`: sources and research backlog
 - `templates/`: reusable planning and review templates
 - `outputs/`: final human-facing artifacts
+- `index.html`: deployed interactive curriculum artifact
