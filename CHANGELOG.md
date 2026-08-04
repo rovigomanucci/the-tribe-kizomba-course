@@ -39,3 +39,4 @@
 - Corrected Level 1 Week 1 so Basic 2 is taught before Basic 1 in both solo and partnered sections, aligning it with the approved Open Night progression.
 - Rebuilt the interactive teaching guide around level tabs, persistent weekly navigation, full lesson views, searchable content, progress tracking, responsive layouts, and teaching-note panels.
 - Added a repeatable site generator that transforms the canonical Markdown class files into the deployed `index.html` artifact.
+- Added persistent light and dark themes to the teaching guide, including accessible toggle labels and theme-specific colour contrast.
