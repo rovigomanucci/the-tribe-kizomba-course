@@ -27,3 +27,12 @@
 - Expanded Level 1 Week 7 into a detailed 60-minute plan covering balanced pauses, non-weighted taps, delayed exits, and optional timing texture.
 - Expanded Level 1 Week 8 into a detailed 60-minute integration plan centred on complete-song social flow, adaptability, floorcraft, and recovery.
 - Completed detailed teaching plans for all eight Level 1 classes; the published HTML remains intentionally unchanged until the Level 2 plans are complete.
+- Expanded Level 2 Week 1 into a detailed 60-minute plan covering free-leg recognition, low foot blocks, simple crosses, and controlled recovery.
+- Expanded Level 2 Week 2 into a detailed 60-minute plan covering inside and outside leg slides, alignment, tracing, replacement, and range adaptation.
+- Expanded Level 2 Week 3 into a detailed 60-minute plan covering small prepared leg lifts, controlled replacement, optional crosses, and strict axis safety.
+- Expanded Level 2 Week 4 into a detailed 60-minute plan covering quarter and half pivots, pivot-to-cross pathways, optional hook preparation, and knee-safe rotation.
+- Expanded Level 2 Week 5 into a detailed 60-minute plan covering delayed transfer, compression and release, musical suspension, and optional small inclination.
+- Expanded Level 2 Week 6 into a detailed 60-minute plan covering static and linear counterbalance, explicit preparation, structural responsibility, and independent recovery.
+- Expanded Level 2 Week 7 into a detailed 60-minute plan covering recovery-led redirection, counterbalance exits, controlled crosses, and optional dynamic variations.
+- Expanded Level 2 Week 8 into a detailed 60-minute integration challenge centred on vocabulary selection, musical texture, partner adaptation, simplification, and recovery.
+- Completed detailed teaching plans for all eight Level 2 classes; the published HTML remains intentionally unchanged pending a separate artifact update.
