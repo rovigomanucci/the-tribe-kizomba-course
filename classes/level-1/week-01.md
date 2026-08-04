@@ -11,7 +11,7 @@ Status: Draft — Test in class
 
 ## Student-facing promise
 
-By the end of the class, students will be able to dance a short Kizomba flow using Marca, Basic 1, and Basic 2 while staying grounded, balanced, and on the pulse.
+By the end of the class, students will be able to dance a short Kizomba flow using Marca, Basic 2, and Basic 1 while staying grounded, balanced, and on the pulse.
 
 ## Class purpose
 
@@ -27,6 +27,8 @@ Week 1 establishes the foundations that every later class depends on:
 
 The objective is not to teach a long sequence. Students should understand that they are making simple social-dance choices rather than memorising choreography.
 
+Basic 2 is taught before Basic 1 to preserve continuity with Open Night, give beginners an immediately visible lateral movement, and then transition into the more compact and grounded feeling of Basic 1.
+
 ## Starting conditions
 
 No previous Kizomba experience is required.
@@ -40,7 +42,7 @@ By the end of the class, students should be able to:
 - Recognise and move with the pulse.
 - Transfer their full weight from foot to foot.
 - Maintain an upright and relaxed posture.
-- Dance Marca, Basic 1, and Basic 2.
+- Dance Marca, Basic 2, and Basic 1.
 - Change between the three movements without losing balance.
 - Lead or follow through body movement rather than arm force.
 - Return to Marca when uncertain.
@@ -52,11 +54,11 @@ By the end of the class, students should be able to:
 - Pulse
 - Complete weight transfer
 - Marca
-- Basic 1
 - Basic 2
+- Basic 1
 - Open partner connection
-- Transition from Marca into Basic 1
 - Transition from Marca into Basic 2
+- Transition from Marca into Basic 1
 - Return to Marca as the principal recovery
 
 ### Previewed only
@@ -132,7 +134,7 @@ The leader-role teacher asks everyone to spread out with enough room to step com
 
 ### Purpose
 
-Establish the physical foundation for Marca, Basic 1, and Basic 2.
+Establish the physical foundation for Marca, Basic 2, and Basic 1.
 
 ### Leader-role teacher actions
 
@@ -208,24 +210,64 @@ Most students can continue Marca without teacher counting and can restart after 
 
 ### Transition
 
-Explain that Basic 1 is the first movement choice built from the same complete transfer.
+Explain that Basic 2 is the first visible movement choice built from the same complete transfer.
 
-## 14–20 minutes: Basic 1 individually
+## 14–20 minutes: Basic 2 individually
 
 ### Purpose
 
-Introduce a compact, grounded movement while preserving the pulse and weight-transfer quality established through Marca.
+Introduce a clear lateral movement that is easy for beginners to see, reproduce, and connect to the Open Night experience.
 
 ### Leader-role teacher actions
 
-- Demonstrate the complete Basic 1 with music.
-- Break down the essential version.
-- Show how it differs from Marca while using the same foundation.
+- Demonstrate Basic 2 with music.
+- Teach the essential lateral version.
+- Show how it grows from Marca while preserving the same pulse and weight transfer.
 - Keep counting brief and return quickly to music.
 
 ### Follower-role teacher actions
 
 - Demonstrate the follower role beside the leader-role teacher.
+- Observe students who widen the movement excessively.
+- Reinforce that both feet must complete their weight transfer.
+
+### Student task
+
+- Dance Basic 2 individually.
+- Keep the lateral range controlled.
+- Complete every transfer.
+- Return to Marca when unsure.
+
+### Success signal
+
+Most students can dance repeated Basic 2 cycles and return to Marca without stopping.
+
+### Common errors and corrections
+
+- Steps becoming too wide: “Keep the movement smaller than you think you need.”
+- Feet closing without weight transfer: “Arrive fully before changing direction.”
+- Upper body moving after the feet: “Let the body travel with the standing foot.”
+
+### Transition
+
+Alternate Marca and Basic 2 on the leader-role teacher’s verbal cue.
+
+## 20–26 minutes: Basic 1 individually
+
+### Purpose
+
+Shift from the visible lateral quality of Basic 2 into a more compact and grounded Kizomba feeling.
+
+### Leader-role teacher actions
+
+- Demonstrate the complete Basic 1 with music.
+- Break down the essential version.
+- Compare its compact feeling with Basic 2.
+- Emphasise that posture, pulse, and full transfer remain unchanged.
+
+### Follower-role teacher actions
+
+- Demonstrate the follower role.
 - Show the movement from the students’ opposite viewing angle if necessary.
 - Observe whether students remain balanced and close to their own position.
 
@@ -234,7 +276,7 @@ Introduce a compact, grounded movement while preserving the pulse and weight-tra
 - Dance Basic 1 individually.
 - Maintain small controlled steps.
 - Complete every transfer.
-- Return to Marca when unsure.
+- Alternate between Basic 1 and Marca.
 
 ### Success signal
 
@@ -245,46 +287,6 @@ Most students complete repeated Basic 1 cycles without losing balance or leaving
 - Moving too far: “Make the movement fit inside your own space.”
 - Skipping a transfer: “Do not move the free foot until the standing foot is complete.”
 - Becoming mechanical: “Keep the pulse continuous even when the shape changes.”
-
-### Transition
-
-Alternate Marca and Basic 1 on the leader-role teacher’s verbal cue.
-
-## 20–26 minutes: Basic 2 individually
-
-### Purpose
-
-Add a clear lateral movement and give students a second visible movement choice.
-
-### Leader-role teacher actions
-
-- Demonstrate Basic 2 with music.
-- Teach the essential lateral version.
-- Compare its direction with Basic 1.
-- Emphasise that the same posture, pulse, and full transfer still apply.
-
-### Follower-role teacher actions
-
-- Demonstrate the follower role.
-- Observe students who widen the movement excessively.
-- Reinforce that both feet must complete their weight transfer.
-
-### Student task
-
-- Dance Basic 2 individually.
-- Keep the lateral range controlled.
-- Alternate between Basic 2 and Marca.
-- Avoid tapping or leaving weight centred between both legs.
-
-### Success signal
-
-Most students can dance Basic 2 and return to Marca without stopping.
-
-### Common errors and corrections
-
-- Steps becoming too wide: “Keep the movement smaller than you think you need.”
-- Feet closing without weight transfer: “Arrive fully before changing direction.”
-- Upper body moving after the feet: “Let the body travel with the standing foot.”
 
 ### Transition
 
@@ -335,83 +337,38 @@ Rotate once at the end of this section using one clearly indicated direction.
 
 ### Transition
 
-Keep the new partner and add Basic 1.
+Keep the new partner and add Basic 2.
 
-## 32–39 minutes: Basic 1 with a partner
+## 32–39 minutes: Basic 2 with a partner
 
 ### Purpose
 
-Apply Basic 1 through connection while preserving individual balance and complete weight transfer.
+Apply Basic 2 through connection while preserving individual balance and controlled lateral space.
 
 ### Leader-role teacher actions
 
-- Demonstrate the entry from Marca into Basic 1.
-- Demonstrate the return from Basic 1 to Marca.
-- Explain that the leader should complete a movement before changing.
+- Demonstrate the entry from Marca into Basic 2.
+- Demonstrate the return from Basic 2 to Marca.
+- Show how oversized lateral movement affects the partner.
 - Observe leaders’ posture, movement size, and use of the arms.
 
 ### Follower-role teacher actions
 
-- Demonstrate how the follower completes each transfer without guessing.
+- Demonstrate how the follower completes each lateral transfer without guessing.
 - Observe follower timing and balance.
 - Support couples who lose the pulse during the transition.
 
 ### Student task
 
 - Begin in Marca.
-- Enter Basic 1.
-- Repeat it at least once.
-- Return to Marca.
-- Avoid changing movement halfway through a transfer.
-
-### Success signal
-
-Most couples can move from Marca into Basic 1 and back without stopping or pulling.
-
-### Common errors and corrections
-
-- Leader changes too quickly: “Repeat before changing.”
-- Follower begins before the lead is clear: “Finish the current weight transfer first.”
-- Connection becomes rigid: “Keep the hands available, not fixed.”
-
-### Partner rotation
-
-Rotate at the end of the section.
-
-### Transition
-
-Repeat the same entry-and-recovery logic with Basic 2.
-
-## 39–46 minutes: Basic 2 with a partner
-
-### Purpose
-
-Add lateral movement while maintaining comfortable connection and controlled space.
-
-### Leader-role teacher actions
-
-- Demonstrate Marca into Basic 2.
-- Demonstrate the exit back to Marca.
-- Show how oversized lateral movement affects the partner.
-- Observe leaders’ direction and use of available floor space.
-
-### Follower-role teacher actions
-
-- Demonstrate the follower role without anticipation.
-- Observe whether followers complete their lateral transfer.
-- Correct students who collapse their posture or lean into the connection.
-
-### Student task
-
-- Begin in Marca.
 - Enter Basic 2.
-- Repeat it.
+- Repeat it at least once.
 - Return to Marca.
 - Adjust movement size to the available space and partner.
 
 ### Success signal
 
-Couples complete Basic 2 together without arm force or excessive lateral travel.
+Most couples can move from Marca into Basic 2 and back without stopping, pulling, or travelling excessively.
 
 ### Common errors and corrections
 
@@ -419,11 +376,56 @@ Couples complete Basic 2 together without arm force or excessive lateral travel.
 - Leader uses only the hands: “Let your body establish the direction.”
 - Follower steps before receiving direction: “Remain available rather than predicting.”
 
+### Partner rotation
+
+Rotate at the end of the section.
+
 ### Transition
 
-The leader-role teacher explains that the three movements are now choices rather than a fixed sequence.
+Repeat the same entry-and-recovery logic with Basic 1.
 
-## 46–52 minutes: Choosing between Marca, Basic 1, and Basic 2
+## 39–46 minutes: Basic 1 with a partner
+
+### Purpose
+
+Add the compact grounded movement after students have already established connection through Basic 2.
+
+### Leader-role teacher actions
+
+- Demonstrate Marca into Basic 1.
+- Demonstrate the exit back to Marca.
+- Explain that the leader should complete a movement before changing.
+- Observe leaders’ posture, movement size, and arm use.
+
+### Follower-role teacher actions
+
+- Demonstrate the follower role without anticipation.
+- Observe whether followers complete every transfer.
+- Correct students who collapse their posture or lean into the connection.
+
+### Student task
+
+- Begin in Marca.
+- Enter Basic 1.
+- Repeat it.
+- Return to Marca.
+- Avoid changing movement halfway through a transfer.
+
+### Success signal
+
+Couples complete Basic 1 together without arm force, rushing, or losing balance.
+
+### Common errors and corrections
+
+- Leader changes too quickly: “Repeat before changing.”
+- Follower begins before the lead is clear: “Finish the current weight transfer first.”
+- Connection becomes rigid: “Keep the hands available, not fixed.”
+
+### Transition
+
+The leader-role teacher explains that Marca, Basic 2, and Basic 1 are now choices rather than a fixed sequence.
+
+## 46–52 minutes: Choosing between Marca, Basic 2, and Basic 1
 
 ### Purpose
 
@@ -447,7 +449,7 @@ Move students from copying the teachers into making simple social-dance decision
 
 Leaders:
 
-- Choose Marca, Basic 1, or Basic 2.
+- Choose Marca, Basic 2, or Basic 1.
 - Complete the current movement before changing.
 - Return to Marca when uncertain.
 
@@ -484,7 +486,7 @@ Give students an authentic first Level 1 social-dance experience using a limited
 ### Leader-role teacher actions
 
 - Start one clear, beginner-friendly track.
-- Limit prompts to Marca, Basic 1, Basic 2, complete the transfer, and return to Marca.
+- Limit prompts to Marca, Basic 2, Basic 1, complete the transfer, and return to Marca.
 - Gradually stop speaking.
 - Circulate and offer short corrections.
 
@@ -500,8 +502,8 @@ Give students an authentic first Level 1 social-dance experience using a limited
 Dance continuously using only:
 
 - Marca
-- Basic 1
 - Basic 2
+- Basic 1
 
 Change movement only after completing the current weight transfer. Return to Marca when uncertain.
 
@@ -521,7 +523,7 @@ Consolidate the foundations and create a clear bridge into walking and Basic 3.
 
 ### Leader-role teacher actions
 
-- Recap pulse, full weight transfer, Marca, Basic 1, Basic 2, and recovery.
+- Recap pulse, full weight transfer, Marca, Basic 2, Basic 1, and recovery.
 - Explain that Week 2 develops travelling, stopping, and restarting.
 - Avoid teaching Basic 3 during the closing.
 
@@ -545,7 +547,7 @@ Students can name the three movement choices and understand that Marca is their 
 Recommended rotations:
 
 1. After partner connection and Marca
-2. After partnered Basic 1
+2. After partnered Basic 2
 3. Before independent social dance
 
 Use one consistent rotation direction throughout the class.
@@ -562,16 +564,16 @@ When role numbers are uneven:
 ## Core version
 
 - Marca
-- Basic 1
 - Basic 2
+- Basic 1
 - Return to Marca after each movement
 - Teacher-led movement changes
 
 ## Progressing version
 
-- Enter Basic 1 from Marca.
-- Return to Marca.
 - Enter Basic 2 from Marca.
+- Return to Marca.
+- Enter Basic 1 from Marca.
 - Change between the two basics after completing the transfer.
 - Adjust movement size to a new partner.
 
@@ -590,8 +592,8 @@ Faster students should receive tighter timing, control, and communication constr
 | Section | Music quality | Energy |
 |---|---|---|
 | Pulse and weight transfer | Very clear and steady pulse | Low |
-| Marca and Basic 1 | Slow, grounded, and uncluttered | Low to medium |
-| Basic 2 | Clear rhythm with slightly more energy | Medium |
+| Marca and Basic 2 | Clear, accessible, and slightly energetic | Low to medium |
+| Basic 1 | Slow, grounded, and uncluttered | Low to medium |
 | Partner practice | Predictable pulse and phrasing | Medium |
 | Independent social dance | Accessible social Kizomba track | Medium |
 
@@ -599,7 +601,7 @@ Specific songs can be added after the teaching structure is tested.
 
 # Teaching-role responsibilities
 
-## Leader role
+## Leader-role teacher
 
 - Lead the main instruction.
 - Demonstrate the leader role.
@@ -607,13 +609,15 @@ Specific songs can be added after the teaching structure is tested.
 - Observe leading, movement size, and arm use.
 - Manage rotations and whole-room corrections.
 
-## Follower role
+## Follower-role teacher
 
 - Demonstrate the follower role.
 - Observe follower balance, anticipation, and weight transfer.
 - Support students during partner work.
 - Provide a second demonstration angle.
 - Help identify students needing a simplified task.
+
+The teaching roles may be exchanged without changing the structure of the plan.
 
 # Safety and consent
 
@@ -632,7 +636,7 @@ Specific songs can be added after the teaching structure is tested.
 
 - Most students recognise and maintain the pulse.
 - Most students complete full weight transfers.
-- Most students perform Marca, Basic 1, and Basic 2.
+- Most students perform Marca, Basic 2, and Basic 1.
 - Couples enter and exit the basics through Marca.
 - Connection remains light and controlled.
 - Students recover after mistakes without stopping the dance.
@@ -652,22 +656,23 @@ Record:
 - Content that must be repeated in Week 2
 - Whether the final social-dance section needs more time
 
-# Connection to the course
+# Connection to the programme
 
 - Previous experience: Open Night or first contact with Kizomba
 - Next class: Basic 3, natural walking, stopping, and restarting
 - Skills carried forward:
   - Pulse
-  - Complete weight transfer
+  - Full weight transfer
   - Marca recovery
   - Partner connection
-  - Basic 1 and Basic 2
+  - Basic 2 and Basic 1
 
 # Open questions and test points
 
+- Does Basic 2 first create faster engagement and clearer continuity from Open Night?
 - Is six minutes enough for the final independent dance?
-- Do students need more time in partner connection before Basic 1?
-- Is Basic 1 understood more clearly before Basic 2?
+- Do students need more time in partner connection before Basic 2?
+- Is Basic 1 understood more clearly after Basic 2?
 - Are three partner rotations appropriate?
 - Do students use Marca naturally as recovery?
 - Does the class remain accessible to students who missed Open Night?
