@@ -17,3 +17,4 @@
 - Added strategy, curriculum, library, research, templates, and outputs guidance to GitHub.
 - Declared GitHub the sole canonical source of truth and Vercel the published web host.
 - Reclassified Google Drive as a temporary read-only archive rather than a parallel source.
+- Expanded Level 1 Week 1 into a detailed 60-minute teaching plan using leader-role and follower-role responsibilities throughout.
