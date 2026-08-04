@@ -19,3 +19,4 @@
 - Reclassified Google Drive as a temporary read-only archive rather than a parallel source.
 - Expanded Level 1 Week 1 into a detailed 60-minute teaching plan using leader-role and follower-role responsibilities throughout.
 - Expanded the reusable class-plan template to the approved 60-minute, role-based teaching format.
+- Expanded Level 1 Week 2 into a detailed 60-minute plan covering Basic 3, walking, stopping, restarting, and floorcraft.
