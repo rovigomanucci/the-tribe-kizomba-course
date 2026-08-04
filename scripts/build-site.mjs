@@ -258,5 +258,5 @@ applyTheme(document.documentElement.dataset.theme);
 </body>
 </html>`;
 
-writeFileSync(join(root, 'index.html'), html);
+writeFileSync(join(root, 'index.html'), `${html}\n`);
 console.log(`Built index.html with ${programme.reduce((total, level) => total + level.lessons.length, 0)} classes.`);
