@@ -455,6 +455,13 @@ Students may switch roles or decline a rotation.
 | New-partner adaptation | Clear pulse | Low to medium |
 | Complete-song task | Beginner-friendly full track with rhythmic texture | Medium |
 
+# Instructor preparation reference
+
+[How to Dance During Kizomba Breaks](https://www.youtube.com/watch?v=WG3vC4XH-yE)
+
+- Start at 1:30 for the first pause example.
+- Keep the Tribe tap unweighted, balanced, and optional.
+
 # Connection to the programme
 
 - Previous class: Vírgula, Retrocesso, exit selection, and recovery
