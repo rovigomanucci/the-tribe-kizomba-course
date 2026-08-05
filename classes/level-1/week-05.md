@@ -645,6 +645,13 @@ Record:
 - Sections that exceeded their allocated time
 - Content requiring review in Week 6
 
+# Instructor preparation reference
+
+[Get Started with Kizomba Right Now](https://www.youtube.com/watch?v=jXGfTwais88)
+
+- Start at 2:01 for the follower's Saída section.
+- Keep the Tribe version limited to the prepared lateral pathway and a Basic 3 or Marca recovery.
+
 # Connection to the programme
 
 - Previous class: Leader's Saída, corridor position, and parallel walking
