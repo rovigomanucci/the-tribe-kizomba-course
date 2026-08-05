@@ -462,6 +462,19 @@ Use one consistent direction. Students may switch roles or decline a rotation.
 | Partner and Saída work | Clear social Kizomba phrasing | Low to medium |
 | Guided social dance | Moderate track with audible rhythmic texture | Medium |
 
+# Instructor preparation references
+
+These references support instructor preparation. They do not replace the class sequence, compact range, floorcraft, or connection standards in this plan.
+
+1. [Improve Your Kizomba in 10 Days, Day 7, ChaCha](https://www.youtube.com/watch?v=GW3p9Q-4ipw)
+   - Use for the rhythm, individual weight transfers, and initial lateral action.
+   - Review from the start of the tutorial.
+
+2. [Follower's Saída, lateral cha-cha, Leader's Saída](https://www.youtube.com/watch?v=CpqlxeEQySs)
+   - Use only after the core rhythm is established, as a reference for the Saída-based application.
+   - Keep the Tribe version limited to one prepared entry and a Basic 3 or Marca recovery.
+   - Review from the start of the tutorial.
+
 # Connection to the programme
 
 - Previous class: Follower's Saída, lateral pathway, and return to Basic 3
