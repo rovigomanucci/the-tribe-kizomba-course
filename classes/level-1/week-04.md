@@ -600,6 +600,14 @@ Use one consistent direction. Teaching-role partners join temporarily when roles
 | Return practice | Moderate tempo with simple texture | Medium |
 | Independent practice | Social Kizomba with predictable phrasing | Medium |
 
+# Instructor preparation reference
+
+This reference supports instructor preparation. It does not replace the compact corridor, lane awareness, return preparation, or floorcraft standards in this plan.
+
+1. [Kizomba Tutorial 08, Saída Men, Armand & Lavinia](https://www.youtube.com/watch?v=sMkZoVaFB7k)
+   - Use from the start of the tutorial to review the beginner Leader's Saída pathway.
+   - Keep the Tribe version compact, protect the follower's lane, and return to Basic 3 or Marca when the corridor is unclear.
+
 # Teaching-role responsibilities
 
 ## Leader-role teacher
