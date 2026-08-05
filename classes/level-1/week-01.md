@@ -656,6 +656,16 @@ Record:
 - Content that must be repeated in Week 2
 - Whether the final social-dance section needs more time
 
+# Instructor preparation references
+
+These references support instructor preparation. They do not replace the course sequence, compact range, or connection standards.
+
+1. [Kizomba Basic 2, Armand & Lavinia](https://www.youtube.com/watch?v=wB1sArnmxTs)
+   - Use from the start for the Basic 2 section.
+
+2. [Kizomba Basic 1, Armand & Lavinia](https://www.youtube.com/watch?v=Na-FuvqCOQw)
+   - Use from the start for the Basic 1 section.
+
 # Connection to the programme
 
 - Previous experience: Open Night or first contact with Kizomba
