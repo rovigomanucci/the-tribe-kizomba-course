@@ -2,6 +2,11 @@
 
 ## 2026-08-05
 
+- Added the approved Level 1 video references to every weekly class plan.
+- Updated the site generator so each Level 1 video embeds in its relevant expandable teaching sequence after every build.
+
+## 2026-08-05
+
 - Added instructor preparation references for Level 1 Week 4 Leader's Saída and Week 6 cha-cha foundation and Saída application. All require a teacher review before student sharing.
 - Added cha-cha as a core Level 1 rhythm and lateral movement module in Week 6, after both Saídas.
 - Moved Vírgula and Retrocesso to Week 7.
