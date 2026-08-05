@@ -17,7 +17,7 @@ Students complete a social dance using clear walking, basic direction changes, c
 | 5 | Follower's Saída | Follower pathway and return | Preparation without pulling or pushing |
 | 6 | Cha-cha: Rhythm and Lateral Flow | Cha-cha timing and lateral action | Rhythm change, clear connection, and return to flow |
 | 7 | Vírgula and Retrocesso | Redirection system | Rotation, recovery, and exit selection |
-| 8 | Pause, Tap, and Social Dance Flow | Timing texture and integrated movement choices | Listening, transitions, floorcraft, and recovery |
+| 8 | Pause, Tap, and Social Flow | Timing texture and integrated movement choices | Listening, transitions, floorcraft, and recovery |
 
 ## Exit criteria
 
