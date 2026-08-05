@@ -747,6 +747,13 @@ Record:
 - Whether five minutes of independent practice was sufficient
 - Content requiring review in Week 3
 
+# Instructor preparation reference
+
+[Kizomba Walk, Armand & Lavinia](https://www.youtube.com/watch?v=MPqGx1etT5k)
+
+- Use from the start for controlled forward and backward walking.
+- Keep the Tribe stop, restart, and floorcraft drills as taught in this plan.
+
 # Connection to the programme
 
 - Previous class: Marca, Basic 1, Basic 2, pulse, and weight transfer
