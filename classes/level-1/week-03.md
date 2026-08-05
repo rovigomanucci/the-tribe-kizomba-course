@@ -695,6 +695,13 @@ Record:
 - Whether five minutes of independent practice was sufficient
 - Content requiring review in Week 4
 
+# Instructor preparation reference
+
+[Clockwise rotation, Armand & Lavinia](https://www.youtube.com/watch?v=XXweA-Y3uUc)
+
+- Use from the start for clockwise rotation.
+- Keep Estrela compact and preserve the floorcraft limits in this plan.
+
 # Connection to the programme
 
 - Previous class: Basic 3, walking, stopping, restarting, and floorcraft
