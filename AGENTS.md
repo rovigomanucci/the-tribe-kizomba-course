@@ -73,3 +73,39 @@ Every class file must contain:
 - Word, PDF, slide, spreadsheet, and web files are generated outputs.
 - Vercel hosts the published web artifact.
 - Do not treat generated outputs as more authoritative than the Markdown source files.
+
+## Mandatory agent workflow
+
+Before editing:
+
+1. Work from a clean checkout of the latest `origin/main`.
+2. Stop if the checkout is behind, detached, or contains unrelated local changes.
+3. Read this file, `README.md`, `DECISIONS.md`, and `DEPLOYMENT.md`.
+4. Identify every canonical Markdown file affected by the request before touching `index.html`.
+
+When editing:
+
+1. Change canonical Markdown first.
+2. Update `DECISIONS.md` only when an approved decision changes.
+3. Add a concise entry to `CHANGELOG.md` for significant changes.
+4. Never edit `index.html` by hand. Run `node scripts/build-site.mjs`.
+5. Run `node scripts/validate-site.mjs`.
+6. Run the build again and confirm `git diff --exit-code -- index.html` returns no difference.
+7. Commit the Markdown, generator, documentation, and generated `index.html` together.
+
+## Video rules
+
+- The class file is the canonical source for videos shown on that class page.
+- Store embedded videos under `Instructor preparation references` as a numbered Markdown list.
+- Use a standard YouTube watch URL in each numbered item.
+- Put instructor notes in indented bullets below the link.
+- Keep `library/video-reference-library.md` as the cross-course index. It must match the class files.
+- Do not hardcode lesson video mappings inside `scripts/build-site.mjs` or `index.html`.
+- Open Night and every Level 1 class must include at least one video. Level 2 remains optional until references are approved.
+
+## Deployment rules
+
+- GitHub `main` is the production source.
+- Vercel production must deploy the same verified `main` commit.
+- Follow `DEPLOYMENT.md` for preview, production, verification, and rollback.
+- Never deploy from a stale, detached, or modified checkout.

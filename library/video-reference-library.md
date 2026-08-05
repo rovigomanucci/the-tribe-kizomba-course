@@ -21,6 +21,12 @@ For every selected video, record:
 - Safety concerns or unsuitable details
 - Date verified
 
+## Open Night
+
+| Class | Link | Teacher | Useful timestamp | Status |
+|---|---|---|---|---|
+| Kizomba Open Night | [Basic Steps of Kizomba and Semba](https://www.youtube.com/watch?v=ORiPx2ceaYE) | Not recorded | Select the walking, Marca, Basic 1, Basic 2, and clockwise Estrela sections | Teacher review required |
+
 ## Level 1
 
 | Week | Class | Link | Teacher | Useful timestamp | Status |

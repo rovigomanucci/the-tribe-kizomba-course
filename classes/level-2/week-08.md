@@ -436,12 +436,12 @@ Dance one song section using at least three shared movement families, one clear 
 
 Couples make independent choices, simplify when necessary, and complete the section without spectacle-driven force.
 
-## 59–60 minutes: Course recap and completion
+## 59–60 minutes: Cycle recap and next steps
 
 ### Leader-role teacher actions
 
 - Recap the Level 2 hierarchy: prepare, recognise, guide, control, recover, interpret, adapt.
-- State that course completion reflects safe adaptable social use, not mastery of every figure.
+- Reinforce safe, adaptable social use and identify useful next steps for continued practice.
 
 ### Follower-role teacher actions
 
@@ -551,7 +551,7 @@ Record:
 # Connection to the programme
 
 - Previous: Dynamic Counterbalances
-- Next: Level 2 completion, continued social practice, or targeted advanced modules
+- Next: Continued social practice, targeted review, or advanced modules
 - Skills carried forward: safe vocabulary selection, musical interpretation, partner adaptation, reduction, recovery, independent decision-making
 
 # Open questions and test points

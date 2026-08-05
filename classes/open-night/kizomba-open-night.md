@@ -377,6 +377,14 @@ Success signal:
 - Student confidence feedback
 - Main point of confusion
 
+## Instructor preparation references
+
+This reference supports instructor preparation. It does not replace the Open Night sequence, compact movement range, connection standards, or consent guidance.
+
+1. [Basic Steps of Kizomba and Semba](https://www.youtube.com/watch?v=ORiPx2ceaYE)
+   - Use as an orientation reference for walking, Marca, Basic 1, Basic 2, and the clockwise Estrela.
+   - Select only the sections needed for this class. Keep the Tribe sequence and Basic 2-first order.
+
 ## Open questions and test points
 
 - Does Basic 2 first create faster engagement than Basic 1 first?

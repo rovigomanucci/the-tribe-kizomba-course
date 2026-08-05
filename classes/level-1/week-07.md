@@ -429,12 +429,11 @@ Most couples use one compact redirection and return to social flow without force
 | Vírgula and Retrocesso | Clear phrasing | Low to medium |
 | Guided practice | Social Kizomba with predictable phrasing | Medium |
 
-# Instructor preparation reference
+# Instructor preparation references
 
-[Vírgula and Retrocesso, Armand & Lavinia](https://www.youtube.com/watch?v=bXoJqx4CIsk)
-
-- Use from the start for the redirection pathway.
-- Teach the compact, body-led version with the release and recovery rules in this plan.
+1. [Vírgula and Retrocesso, Armand & Lavinia](https://www.youtube.com/watch?v=bXoJqx4CIsk)
+   - Use from the start for the redirection pathway.
+   - Teach the compact, body-led version with the release and recovery rules in this plan.
 
 # Connection to the programme
 

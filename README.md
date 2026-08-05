@@ -58,10 +58,32 @@ Every class gives students a recognisable move or movement family. The move acts
 
 ## Rebuild the web artifact
 
-After changing a class file, run:
+The Markdown class files are canonical. `scripts/build-site.mjs` reads them and generates `index.html`. Do not edit `index.html` directly.
+
+After changing curriculum content, videos, or the site generator, run:
 
 ```bash
 node scripts/build-site.mjs
+node scripts/validate-site.mjs
+node scripts/build-site.mjs
+git diff --exit-code -- index.html
 ```
 
-Commit the updated Markdown and generated `index.html` together. Vercel publishes `index.html` from the GitHub repository.
+The last command proves the generated artifact is reproducible. Commit the updated Markdown, generator, documentation, and `index.html` together.
+
+## Video update map
+
+| Change | Canonical files | Generated file |
+|---|---|---|
+| Add or replace a class video | Relevant file in `classes/` and `library/video-reference-library.md` | `index.html` |
+| Change curriculum content | Relevant file in `classes/`, plus a curriculum overview when course structure changes | `index.html` |
+| Change teaching-guide layout or behaviour | `scripts/build-site.mjs` | `index.html` |
+| Change an approved programme decision | `DECISIONS.md`, affected curriculum and class files | `index.html` when visible content changes |
+
+Each embedded video belongs under `Instructor preparation references` in its class file. The generator reads this section. There is no separate video map in the generator.
+
+## Publishing
+
+GitHub `main` is the production source. Vercel publishes the generated root `index.html` at [the production teaching guide](https://the-tribe-kizomba-course.vercel.app/).
+
+Follow `DEPLOYMENT.md` for the complete release, verification, fallback, and rollback process.

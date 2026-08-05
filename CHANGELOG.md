@@ -2,18 +2,20 @@
 
 ## 2026-08-05
 
+- Added the Open Night video to its canonical class file and the video reference library.
+- Changed the site generator to read video references from class Markdown instead of a hardcoded mapping.
+- Added validation, reproducible-build checks, agent instructions, and the complete Vercel deployment process.
+- Removed remaining course-completion wording from the teaching guide source.
 - Moved each week's embedded videos into a single visible reference panel at the top of the teaching sequence.
 - Preserved the removal of course-completion controls while rebuilding the video layout.
 - Added the approved Level 1 video references to every weekly class plan.
-- Updated the site generator so each Level 1 video embeds in its relevant expandable teaching sequence after every build.
-
-## 2026-08-05
+- Updated the site generator so each class video embeds below its teaching-sequence heading after every build.
 
 - Added instructor preparation references for Level 1 Week 4 Leader's Saída and Week 6 cha-cha foundation and Saída application. All require a teacher review before student sharing.
 - Added cha-cha as a core Level 1 rhythm and lateral movement module in Week 6, after both Saídas.
 - Moved Vírgula and Retrocesso to Week 7.
 - Combined pauses, taps, timing choices, and full social-flow integration in Week 8.
-- Updated Level 1 completion criteria, decision records, class specifications, and the generated teaching guide to match the revised sequence.
+- Updated Level 1 end-of-cycle criteria, decision records, class specifications, and the generated teaching guide to match the revised sequence.
 
 ## 2026-08-04
 
@@ -52,7 +54,7 @@
 - Expanded Level 2 Week 8 into a detailed 60-minute integration challenge centred on vocabulary selection, musical texture, partner adaptation, simplification, and recovery.
 - Completed detailed teaching plans for all eight Level 2 classes; the published HTML remains intentionally unchanged pending a separate artifact update.
 - Corrected Level 1 Week 1 so Basic 2 is taught before Basic 1 in both solo and partnered sections, aligning it with the approved Open Night progression.
-- Rebuilt the interactive teaching guide around level tabs, persistent weekly navigation, full lesson views, searchable content, progress tracking, responsive layouts, and teaching-note panels.
+- Rebuilt the interactive teaching guide around level tabs, persistent weekly navigation, full lesson views, searchable content, responsive layouts, and teaching-note panels. Completion tracking was later removed.
 - Added a repeatable site generator that transforms the canonical Markdown class files into the deployed `index.html` artifact.
 - Added persistent light and dark themes to the teaching guide, including accessible toggle labels and theme-specific colour contrast.
 - Set Open Night as the default landing view while preserving direct links to individual lessons.

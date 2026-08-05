@@ -7,7 +7,7 @@ Status: Draft — Test in class
 - Duration: 60 minutes
 - Teaching roles: Leader and Follower
 - Audience: Level 2 / Fusion improvers
-- Previous experience: Level 1 completion or equivalent assessment
+- Previous experience: Level 1 experience or equivalent readiness assessment
 
 ## Student-facing promise
 
@@ -523,7 +523,7 @@ Record:
 
 # Connection to the programme
 
-- Previous: Level 1 completion or Level 2 assessment
+- Previous: Level 1 experience or Level 2 readiness assessment
 - Next: Leg slides and tracing
 - Skills carried forward: free-leg recognition, low contact, stable axis, prepared entry, controlled release
 

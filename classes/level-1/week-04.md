@@ -600,7 +600,7 @@ Use one consistent direction. Teaching-role partners join temporarily when roles
 | Return practice | Moderate tempo with simple texture | Medium |
 | Independent practice | Social Kizomba with predictable phrasing | Medium |
 
-# Instructor preparation reference
+# Instructor preparation references
 
 This reference supports instructor preparation. It does not replace the compact corridor, lane awareness, return preparation, or floorcraft standards in this plan.
 

@@ -1,6 +1,6 @@
 # Decisions and Open Questions
 
-Last updated: 2026-08-04
+Last updated: 2026-08-05
 
 ## Approved decisions
 
@@ -60,6 +60,14 @@ Level 2 includes:
 - The leader guides a free leg pathway. The leader does not kick, hook aggressively, or force a lift.
 - Every advanced movement needs a prepared entry, controlled range, and clear recovery.
 
+### Publishing and video sources
+
+- Class Markdown is the canonical source for videos embedded in that class page.
+- The video reference library is a cross-course index and must match the class files.
+- The generated `index.html` must never contain a manual video mapping that is absent from Markdown.
+- Open Night and every Level 1 class include an instructor preparation video. Level 2 references remain research items.
+- The guide does not track or display course-completion status.
+
 ## Draft decisions
 
 ### Open Night
@@ -81,7 +89,7 @@ Level 2 includes:
 ## Research needed
 
 - Verify terminology and lineage claims with Angolan and recognised Kizomba educators.
-- Verify one strong teaching video for every class.
+- Verify one strong teaching video for every Level 2 class.
 - Define contraindications and safe range guidance for lifts and counterbalances.
 - Review whether Level 2 entry criteria need a short assessment class.
 - Decide how much Urban Kiz vocabulary matches The Tribe's teaching identity.
