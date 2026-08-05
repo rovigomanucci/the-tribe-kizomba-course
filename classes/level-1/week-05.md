@@ -63,13 +63,14 @@ By the end of the class, students should be able to:
 - Different numbers of lateral steps
 - Rotational exit
 - Delayed return
-- Vírgula preparation
+- Cha-cha entry preparation
 
 ### Excluded
 
 - Forced torso rotation
 - Large lateral travel
 - Fast follower redirections
+- Full cha-cha pattern
 - Full Vírgula
 - Fixed choreography combining both Saídas
 - Styling that interferes with balance
@@ -507,7 +508,7 @@ Most couples complete one compact Follower's Saída and return without pulling, 
 ### Leader-role teacher actions
 
 - Recap free-leg recognition, pathway preparation, corridor protection, and simple return.
-- Explain that Week 6 will use the Follower's Saída and quarter-turn skills to introduce Vírgula and Retrocesso.
+- Explain that Week 6 will use the Follower's Saída and lateral pathway to introduce cha-cha rhythm, entry, and exit choices.
 
 ### Follower-role teacher actions
 
@@ -567,7 +568,7 @@ Use one consistent direction. Teaching-role partners join temporarily when roles
 - Change the number of lateral walks.
 - Delay the return for one pulse.
 - Add a compact rotational exit.
-- Prepare the Vírgula entry used in Week 6.
+- Prepare the Saída entry used for cha-cha in Week 6.
 
 # Common errors and correction cues
 
@@ -647,7 +648,7 @@ Record:
 # Connection to the programme
 
 - Previous class: Leader's Saída, corridor position, and parallel walking
-- Next class: Simple Vírgula, Retrocesso, and redirection exits
+- Next class: Cha-cha rhythm, lateral action, Saída entry, and Basic 3 exit
 - Skills carried forward: free-leg recognition, lateral pathway preparation, corridor protection, follower balance, and return timing
 
 # Open questions and test points

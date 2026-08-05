@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-08-05
+
+- Added cha-cha as a core Level 1 rhythm and lateral movement module in Week 6, after both Saídas.
+- Moved Vírgula and Retrocesso to Week 7.
+- Combined pauses, taps, timing choices, and full social-flow integration in Week 8.
+- Updated Level 1 completion criteria, decision records, class specifications, and the generated teaching guide to match the revised sequence.
+
 ## 2026-08-04
 
 - Created the initial repository structure.

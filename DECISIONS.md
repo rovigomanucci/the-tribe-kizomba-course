@@ -26,6 +26,7 @@ Level 1 includes:
 - Full weight transfer
 - Natural Kizomba walking
 - Basic 1, 2, and 3
+- Cha-cha rhythm and lateral action
 - Estrela
 - Leader's Saída
 - Follower's Saída
@@ -36,6 +37,8 @@ Level 1 includes:
 - Floorcraft and recovery
 
 Level 1 Week 1 introduces Basic 2 before Basic 1. This gives beginners an immediate visible movement choice before moving into the more grounded Basic 1 feeling.
+
+Level 1 teaches cha-cha as a core rhythm and lateral movement skill in Week 6, after both Saídas. This gives students enough pathway and connection vocabulary to enter cha-cha from a Saída and return cleanly to Basic 3 or closed flow. Vírgula and Retrocesso move to Week 7. Week 8 combines pauses, taps, timing choices, and the full social-flow integration task.
 
 ### Level 2 content
 
@@ -72,7 +75,7 @@ Level 2 includes:
 
 - Exact balance between Kizomba, Fusion, and Urban Kiz language in Level 2.
 - Whether Week 4 of Level 2 should include hooks or keep hooks for a later cycle.
-- Whether Tarraxinha belongs in Level 1 Week 7 or only as an optional texture preview.
+- Whether Tarraxinha belongs in Level 1 Week 8 or only as an optional texture preview.
 - The final public-facing names for all sixteen classes.
 
 ## Research needed

@@ -15,9 +15,9 @@ Students complete a social dance using clear walking, basic direction changes, c
 | 3 | The Clockwise Flow | Estrela and quarter turns | Shared centre and circular navigation |
 | 4 | Leader's Saída | Leader pathway and corridor | Lane awareness and independent walking |
 | 5 | Follower's Saída | Follower pathway and return | Preparation without pulling or pushing |
-| 6 | Vírgula and Retrocesso | Redirection system | Rotation, recovery, and exit selection |
-| 7 | Pause, Tap, and Play | Pauses, taps, timing changes | Listening, balance, and delayed transfer |
-| 8 | Social Dance Flow | Integrated movement choices | Transitions, floorcraft, and recovery |
+| 6 | Cha-cha: Rhythm and Lateral Flow | Cha-cha timing and lateral action | Rhythm change, clear connection, and return to flow |
+| 7 | Vírgula and Retrocesso | Redirection system | Rotation, recovery, and exit selection |
+| 8 | Pause, Tap, and Social Flow | Timing texture and integrated movement choices | Listening, transitions, floorcraft, and recovery |
 
 ## Exit criteria
 
@@ -25,6 +25,7 @@ A student is ready for Level 2 when they demonstrate:
 
 - Reliable weight transfer
 - Basic 1, 2, and 3
+- Cha-cha rhythm and lateral action
 - Leader's and follower's Saída
 - At least one controlled redirection
 - Ability to start, stop, and recover
