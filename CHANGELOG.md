@@ -2,6 +2,8 @@
 
 ## 2026-08-05
 
+- Moved each week's embedded videos into a single visible reference panel at the top of the teaching sequence.
+- Preserved the removal of course-completion controls while rebuilding the video layout.
 - Added the approved Level 1 video references to every weekly class plan.
 - Updated the site generator so each Level 1 video embeds in its relevant expandable teaching sequence after every build.
 
