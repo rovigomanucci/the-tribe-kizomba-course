@@ -2,6 +2,8 @@
 
 ## 2026-08-05
 
+- Restyled the top curriculum context and lower class toolkit as static, divider-based content across Open Night and both course levels, while preserving cards for expandable teaching sections.
+- Removed the duplicate divider above the top curriculum context.
 - Added the Open Night video to its canonical class file and the video reference library.
 - Changed the site generator to read video references from class Markdown instead of a hardcoded mapping.
 - Added validation, reproducible-build checks, agent instructions, and the complete Vercel deployment process.
