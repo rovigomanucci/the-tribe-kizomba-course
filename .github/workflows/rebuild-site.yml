@@ -1,0 +1,61 @@
+name: Rebuild teaching guide
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'classes/**'
+      - 'curriculum/**'
+      - 'library/**'
+      - 'scripts/**'
+      - 'README.md'
+      - 'DECISIONS.md'
+      - 'CHANGELOG.md'
+      - 'DEPLOYMENT.md'
+      - 'AGENTS.md'
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build teaching guide
+        run: node scripts/build-site.mjs
+
+      - name: Apply Open Night metadata
+        run: node scripts/patch-open-night.mjs
+
+      - name: Validate generated guide
+        run: node scripts/validate-site.mjs
+
+      - name: Confirm reproducible generation
+        run: |
+          cp index.html /tmp/index.html
+          node scripts/build-site.mjs
+          node scripts/patch-open-night.mjs
+          cmp /tmp/index.html index.html
+
+      - name: Commit generated guide
+        run: |
+          if git diff --quiet -- index.html; then
+            echo "index.html is already current"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "Rebuild teaching guide"
+          git push

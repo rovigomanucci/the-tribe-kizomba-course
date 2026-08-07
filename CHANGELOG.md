@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-08-07
+
+- Finalised the Kizomba Open Night as an approved 45-minute curriculum.
+- Replaced the previous 60-minute draft with the approved 12-phase progression from solo foundations into partnered social flow.
+- Added Basic 3, forward and backward balança, the Basic 3 plus balança combination, slow marca reset, close-hold posture, and one optional controlled rotation to the Open Night scope.
+- Set the Basic 2 approach to an upbeat Semba section before close hold and the final seven minutes to a slower Kizomba song with partner changes.
+- Set Basic 1 as the starting and reset point for every new partner.
+- Updated the Open Night review log, programme decisions, repository guidance, and release checks to match the 45-minute plan.
+- Added a deterministic Open Night post-build step and automated main-branch rebuild so the generated teaching guide stays aligned with the canonical Markdown.
+
 ## 2026-08-05
 
 - Restyled the top curriculum context and lower class toolkit as static, divider-based content across Open Night and both course levels, while preserving cards for expandable teaching sections.
@@ -12,7 +22,6 @@
 - Preserved the removal of course-completion controls while rebuilding the video layout.
 - Added the approved Level 1 video references to every weekly class plan.
 - Updated the site generator so each class video embeds below its teaching-sequence heading after every build.
-
 - Added instructor preparation references for Level 1 Week 4 Leader's Saída and Week 6 cha-cha foundation and Saída application. All require a teacher review before student sharing.
 - Added cha-cha as a core Level 1 rhythm and lateral movement module in Week 6, after both Saídas.
 - Moved Vírgula and Retrocesso to Week 7.

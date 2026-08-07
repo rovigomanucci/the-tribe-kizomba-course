@@ -6,7 +6,7 @@ This GitHub repository is the sole source of truth for designing, teaching, revi
 
 The current scope contains:
 
-- Kizomba Open Night: a 60-minute introductory class before each cycle
+- Kizomba Open Night: an approved 45-minute introductory class before each cycle
 - Level 1: Kizomba Foundations and Social Flow
 - Level 2: Kizomba Fusion Techniques and Musicality
 
@@ -46,7 +46,7 @@ Every class gives students a recognisable move or movement family. The move acts
 - `CHANGELOG.md`: significant project changes
 - `strategy/`: course identity and teaching model
 - `curriculum/`: level overviews and progression logic
-- `classes/open-night/`: introductory class plan and live-session reviews
+- `classes/open-night/`: approved 45-minute introductory class plan and live-session reviews
 - `classes/level-1/`: eight Level 1 class specifications
 - `classes/level-2/`: eight Level 2 class specifications
 - `library/`: movements, terminology, video references, and safety
@@ -55,21 +55,29 @@ Every class gives students a recognisable move or movement family. The move acts
 - `outputs/`: final human-facing artifacts
 - `index.html`: deployed interactive curriculum artifact
 - `scripts/build-site.mjs`: rebuilds the web artifact from the canonical Markdown class files
+- `scripts/patch-open-night.mjs`: applies Open Night-specific 45-minute metadata and display rules after the shared site build
+- `.github/workflows/rebuild-site.yml`: regenerates and commits `index.html` after canonical source changes on `main`
 
 ## Rebuild the web artifact
 
-The Markdown class files are canonical. `scripts/build-site.mjs` reads them and generates `index.html`. Do not edit `index.html` directly.
+The Markdown class files are canonical. `scripts/build-site.mjs` reads them and generates `index.html`. The Open Night has a different duration and teaching model from the 60-minute weekly classes, so `scripts/patch-open-night.mjs` runs immediately after each shared build.
+
+Do not edit `index.html` directly.
 
 After changing curriculum content, videos, or the site generator, run:
 
 ```bash
 node scripts/build-site.mjs
+node scripts/patch-open-night.mjs
 node scripts/validate-site.mjs
 node scripts/build-site.mjs
+node scripts/patch-open-night.mjs
 git diff --exit-code -- index.html
 ```
 
-The last command proves the generated artifact is reproducible. Commit the updated Markdown, generator, documentation, and `index.html` together.
+The last command proves the generated artifact is reproducible.
+
+On `main`, `.github/workflows/rebuild-site.yml` performs the same generation and validation and commits `index.html` when the canonical source changed it.
 
 ## Video update map
 
@@ -77,13 +85,13 @@ The last command proves the generated artifact is reproducible. Commit the updat
 |---|---|---|
 | Add or replace a class video | Relevant file in `classes/` and `library/video-reference-library.md` | `index.html` |
 | Change curriculum content | Relevant file in `classes/`, plus a curriculum overview when course structure changes | `index.html` |
-| Change teaching-guide layout or behaviour | `scripts/build-site.mjs` | `index.html` |
+| Change teaching-guide layout or behaviour | `scripts/build-site.mjs` or Open Night post-build logic | `index.html` |
 | Change an approved programme decision | `DECISIONS.md`, affected curriculum and class files | `index.html` when visible content changes |
 
 Each embedded video belongs under `Instructor preparation references` in its class file. The generator reads this section. There is no separate video map in the generator.
 
 ## Publishing
 
-GitHub `main` is the production source. Vercel publishes the generated root `index.html` at [the production teaching guide](https://the-tribe-kizomba-course.vercel.app/).
+GitHub `main` is the production source. Vercel publishes the generated root `index.html` at the production teaching guide.
 
 Follow `DEPLOYMENT.md` for the complete release, verification, fallback, and rollback process.

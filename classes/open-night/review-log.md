@@ -2,6 +2,8 @@
 
 Use one section after every Open Night session.
 
+The approved Open Night is 45 minutes. Record evidence here after teaching. Do not change the canonical class plan from review notes alone.
+
 ## Session: YYYY-MM-DD
 
 ### Context
@@ -18,17 +20,18 @@ Use one section after every Open Night session.
 
 | Section | Planned | Actual | Observation |
 |---|---:|---:|---|
-| Welcome | 4 min | | |
-| Pulse and walking | 6 min | | |
-| Basic 2 solo | 8 min | | |
-| Basic 2 partner game | 6 min | | |
-| Basic 2 in open hold | 7 min | | |
-| Basic 1 | 8 min | | |
-| Basic 1 and Basic 2 choice | 6 min | | |
-| Simple quarter-turn | 5 min | | |
-| Slower connection and timing contrast | 5 min | | |
-| Independent social dance | 4 min | | |
-| Closing | 1 min | | |
+| Welcome and setup | 2 min | | |
+| Solo, Basic 2 | 2 min | | |
+| Solo, Basic 3 | 3 min | | |
+| Solo, balança | 3 min | | |
+| Solo combination | 3 min | | |
+| Couples, Basic 2 approach | 4 min | | |
+| Close hold and posture | 4 min | | |
+| Couples, Basic 1 | 4 min | | |
+| Couples, Basic 3 plus balança | 5 min | | |
+| Slow marca reset | 4 min | | |
+| Rotation | 4 min | | |
+| Final slow song and partner changes | 7 min | | |
 
 ### What worked
 
@@ -45,6 +48,12 @@ Use one section after every Open Night session.
 ### Safety or comfort observations
 
 -
+
+### Partner changes
+
+- Number completed:
+- Did Basic 1 work as a reliable restart with each new partner?
+- Did students settle quickly after each change?
 
 ### Questions students asked
 

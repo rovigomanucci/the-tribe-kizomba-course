@@ -12,7 +12,7 @@ Name Traditional Kizomba, Semba, Urban Kiz, Tarraxinha, and Fusion techniques ac
 
 ## Current course structure
 
-- Kizomba Open Night before each cycle
+- Kizomba Open Night: approved 45-minute introduction before each cycle
 - Level 1: Kizomba Foundations and Social Flow
 - Level 2: Kizomba Fusion Techniques and Musicality
 - Eight weekly classes per level
@@ -20,7 +20,7 @@ Name Traditional Kizomba, Semba, Urban Kiz, Tarraxinha, and Fusion techniques ac
 
 ## Required class components
 
-Every class file must contain:
+Every weekly Level 1 and Level 2 class file must contain:
 
 1. Student-facing promise
 2. Headline move or movement family
@@ -36,6 +36,8 @@ Every class file must contain:
 12. Safety notes
 13. Link to previous and next week
 14. Open questions or test points
+
+The Open Night uses its approved 45-minute phase structure instead of the standard 60-minute weekly template.
 
 ## Teaching principles
 
@@ -81,17 +83,20 @@ Before editing:
 1. Work from a clean checkout of the latest `origin/main`.
 2. Stop if the checkout is behind, detached, or contains unrelated local changes.
 3. Read this file, `README.md`, `DECISIONS.md`, and `DEPLOYMENT.md`.
-4. Identify every canonical Markdown file affected by the request before touching `index.html`.
+4. Identify every canonical Markdown file affected by the request before touching generated files.
 
 When editing:
 
 1. Change canonical Markdown first.
 2. Update `DECISIONS.md` only when an approved decision changes.
 3. Add a concise entry to `CHANGELOG.md` for significant changes.
-4. Never edit `index.html` by hand. Run `node scripts/build-site.mjs`.
-5. Run `node scripts/validate-site.mjs`.
-6. Run the build again and confirm `git diff --exit-code -- index.html` returns no difference.
-7. Commit the Markdown, generator, documentation, and generated `index.html` together.
+4. Never edit `index.html` by hand.
+5. Run `node scripts/build-site.mjs`.
+6. Run `node scripts/patch-open-night.mjs`.
+7. Run `node scripts/validate-site.mjs`.
+8. Run the build and Open Night patch again, then confirm `git diff --exit-code -- index.html` returns no difference.
+9. Commit the canonical source, scripts, documentation, and generated `index.html` together when working locally.
+10. When changes are committed directly through the GitHub connector, allow `.github/workflows/rebuild-site.yml` to produce the generated `index.html` commit, then verify that generated commit before reporting success.
 
 ## Video rules
 
@@ -106,6 +111,6 @@ When editing:
 ## Deployment rules
 
 - GitHub `main` is the production source.
-- Vercel production must deploy the same verified `main` commit.
-- Follow `DEPLOYMENT.md` for preview, production, verification, and rollback.
+- Vercel production must deploy the final verified `main` commit containing the generated `index.html`.
+- Follow `DEPLOYMENT.md` for production verification and rollback.
 - Never deploy from a stale, detached, or modified checkout.

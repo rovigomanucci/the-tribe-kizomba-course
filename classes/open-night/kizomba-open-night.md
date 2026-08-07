@@ -1,372 +1,391 @@
 # Kizomba Open Night
 
-Status: Draft  
-Duration: 60 minutes  
-Audience: Complete beginners and dancers from the Salsa and Bachata Open Night sessions  
-Teachers: Rovigo and Jenna  
-Last reviewed: 2026-08-04
+Status: Approved  
+Duration: 45 minutes  
+Audience: Complete beginners and dancers joining the Kizomba Open Night session  
+Teaching roles: Leader-role teacher and follower-role teacher  
+Last reviewed: 2026-08-07
 
 ## Purpose
 
-The Open Night gives students a successful first Kizomba experience and prepares interested students for Level 1.
+The Open Night gives complete beginners a successful first Kizomba experience, introduces the movement language used in Level 1, and finishes with enough connected dancing for students to feel what the course will become.
 
 ## Student-facing promise
 
-By the end of the class, students will have danced a short social Kizomba using walking, Basic 1, Basic 2, one simple rotation, and one timing choice.
+By the end of the class, students will have moved from solo rhythm and weight-transfer work into a short partnered Kizomba flow using Basic 1, Basic 2, Basic 3, balança, slow marca, and one controlled rotation.
 
 ## Experience goal
 
 Students should leave feeling:
 
-- Successful
-- Comfortable with a partner
-- Curious about Kizomba
-- Interested in joining Level 1
+- Successful with the basic rhythm
+- Comfortable moving with a partner
+- Able to connect solo foundations to partnered dancing
+- Curious about joining Level 1
 
 ## Conversion goal
 
-Students understand what Level 1 offers and know how to enrol.
+Students understand the progression from Open Night into Level 1 and receive a short course invitation during the final social-dance section.
 
 ## Technical foundations
 
-- Pulse
-- Full weight transfer
-- Natural walking
+- Pulse and grounded stepping
+- Clear full weight transfer
 - Personal balance
-- Light partner connection
-- Small controlled steps
+- Basic 3 travel
+- Forward and backward balança
+- Slow marca as a stop, pause, and reset
+- Comfortable close-hold posture and frame
+- Controlled rotation
+- Partner adaptation through changes
 
 ## Movement scope
 
 ### Fully taught
 
-- Natural walking
 - Basic 2
+- Basic 3
+- Forward balança
+- Backward balança
+- Basic 3 with balança at both ends
+- Slow marca
+- Basic 2 approach
 - Basic 1
-- One simple quarter-turn
-- Slow and quick timing choice
+- Basic 3 plus balança in close hold
+- One controlled rotation
 
-### Previewed only
+### Integrated in the final dance
 
-- Vírgula
-- Closer connection
-- Broader Kizomba movement vocabulary
+- Basic 1 as the starting point with each new partner
+- Basic 2
+- Basic 3 plus balança
+- Slow marca
+- Rotation
 
 ### Excluded
 
-- Full Vírgula variations
-- Balança as a separate figure
-- Slow Motion as a separate figure
+- Saídas
+- Vírgula
+- Retrocesso
 - Complex entries and exits
+- Advanced timing changes
 - Long combinations
 
 ## Class sequence
 
-### 0 to 4 minutes: Welcome
+### 0 to 2 minutes: Welcome and setup
 
 Purpose:
 
-- Explain the class journey.
-- Reduce anxiety.
-- Set consent and partner-rotation expectations.
+- Explain leader and follower roles.
+- Set the pulse and personal-space expectations.
 
 Teacher actions:
 
-- Explain that the class moves from playful energy into slower connection.
-- State that open hold remains valid throughout.
-- State that closer connection is optional.
-- Explain that partners will rotate.
+- Welcome the group and name the leader and follower roles.
+- Set the pulse quickly without a long technical introduction.
+- Establish personal-space and partner-comfort expectations.
 
 Student task:
 
-- Listen, choose a preferred connection distance, and prepare to move.
+- Find the pulse individually and prepare to move in place.
 
 Success signal:
 
-- Students understand the class goal and feel safe joining the first exercise.
+- Students understand the roles, stay aware of personal space, and begin moving on the shared pulse.
 
-### 4 to 10 minutes: Pulse and walking
+### 2 to 4 minutes: Solo, Basic 2
 
 Purpose:
 
-- Establish pulse, full weight transfer, and personal balance.
+- Establish grounded stepping and rhythm.
 
 Teacher actions:
 
-- Guide pulse, walking forward, walking backward, walking on the spot, and small directional changes.
-- Keep technical explanation brief.
+- Demonstrate Basic 2 with compact steps.
+- Cue full weight transfer and relaxed knees.
 
 Student task:
 
-- Step fully onto each foot and keep steps small.
+- Repeat Basic 2 on the pulse with clear side-to-side weight transfer.
 
 Success signal:
 
-- Most students stay on the pulse and complete each weight transfer.
+- Most students complete Basic 2 without leaving weight between both feet.
 
-### 10 to 18 minutes: Basic 2 solo
+### 4 to 7 minutes: Solo, Basic 3
 
 Purpose:
 
-- Give students a visible and energetic first movement.
+- Introduce travelling movement and the first clear reset.
 
 Teacher actions:
 
-- Teach Basic 2 slowly.
-- Add music once the weight transfer is clear.
+- Teach Basic 3.
+- Add slow marca at the end to stop and reset before repeating.
 
 Student task:
 
-- Maintain the pulse and move side to side with controlled steps.
+- Travel through Basic 3, finish with slow marca, reset, and repeat.
 
 Success signal:
 
-- Most students complete Basic 2 without tapping or leaving weight between both feet.
+- Students travel without rushing and finish the movement in balance.
 
-### 18 to 24 minutes: Basic 2 partner game
+### 7 to 10 minutes: Solo, balança
 
 Purpose:
 
-- Add social interaction before dance hold.
+- Build clear forward and backward weight transfer before partner work.
 
 Teacher actions:
 
-- Place students facing a partner.
-- Ask them to move toward each other, high five or clap, then move away.
-- Rotate partners once.
+- Teach forward rock and backward rock.
+- Keep the movement compact and focus on where the body weight finishes.
 
 Student task:
 
-- Keep personal timing while noticing the partner.
+- Practise forward balança and backward balança with clear weight transfer.
 
 Success signal:
 
-- Students meet in the middle without rushing or colliding.
+- Students return to balance after each rock without stepping beyond their comfortable range.
 
-### 24 to 31 minutes: Basic 2 in open hold
+### 10 to 13 minutes: Solo combination
 
 Purpose:
 
-- Introduce leading and following with light connection.
+- Connect Basic 3, balança, and slow marca into one repeatable solo flow.
 
 Teacher actions:
 
-- Show open hold.
-- Explain that leaders propose direction and followers complete their own step.
-- Correct pulling, leaning, and oversized steps.
+- Build Basic 3 with balança at both ends.
+- Replace the backward balança with slow marca to stop and reset.
 
 Student task:
 
-- Dance Basic 2 while keeping personal balance.
+- Repeat the sequence until the transition between travelling, rocking, and resetting feels continuous.
 
 Success signal:
 
-- Couples move together without pulling through the arms.
+- Most students complete the combination without stopping to remember the next action.
 
-### 31 to 39 minutes: Basic 1
+### 13 to 17 minutes: Couples, Basic 2 approach
 
 Purpose:
 
-- Shift from energetic movement into a grounded Kizomba feeling.
+- Create playful partner interaction before teaching close hold.
 
 Teacher actions:
 
-- Change to slower music.
-- Teach Basic 1 solo, then in open hold.
-- Compare its feeling with Basic 2.
+- Use the upbeat Semba song.
+- Ask partners to approach using Basic 2, connect briefly, travel together, then move back out.
+- Keep the exercise light and playful.
 
 Student task:
 
-- Complete the rhythm and stay close to the spot.
+- Approach, connect, travel together briefly, and separate while keeping the pulse.
 
 Success signal:
 
-- Most students maintain full weight transfer during Basic 1.
+- Couples meet and separate without rushing, pulling, or losing their own balance.
 
-### 39 to 45 minutes: Basic 1 and Basic 2 choice
+### 17 to 21 minutes: Close hold and posture
 
 Purpose:
 
-- Move from memorising steps into making dance decisions.
+- Establish a relaxed and functional partnered connection before adding new movement.
 
 Teacher actions:
 
-- Ask leaders to choose Basic 1 or Basic 2.
-- Ask followers to complete each weight transfer and avoid guessing.
-- Stop adding new information.
+- Pause the music.
+- Teach leader arm placement, follower position, frame, shared balance awareness, and relaxed connection.
+- Keep personal balance with each dancer rather than leaning into the partner.
 
 Student task:
 
-- Change between both movements without stopping.
+- Settle into close hold and test small weight changes without pulling or carrying the partner.
 
 Success signal:
 
-- Couples recover by returning to Basic 2 when unsure.
+- Couples look relaxed, maintain personal balance, and keep comfortable connection pressure.
 
-### 45 to 50 minutes: Simple quarter-turn
+### 21 to 25 minutes: Couples, Basic 1
 
 Purpose:
 
-- Add direction without teaching full Vírgula.
+- Give every partnership a clear starting point and reset.
 
 Teacher actions:
 
-- Demonstrate one quarter-turn.
-- Keep the direction consistent across the room.
-- Place Basic 2 before and after the turn.
+- Teach Basic 1 in the partnered connection.
+- Start introducing partner changes.
+- Ask each new partnership to begin with Basic 1.
 
 Student task:
 
-- Complete one controlled rotation and return to Basic 2.
+- Use Basic 1 to settle with the partner before adding movement.
 
 Success signal:
 
-- Couples rotate without losing balance or crowding nearby dancers.
+- New partnerships establish the rhythm without needing to rush into a sequence.
 
-### 50 to 55 minutes: Slower connection and timing contrast
+### 25 to 30 minutes: Couples, Basic 3 plus balança
 
 Purpose:
 
-- Create the strongest emotional and musical contrast of the class.
+- Transfer the familiar solo sequence into close hold.
 
 Teacher actions:
 
-- Change to slower music.
-- Invite students to choose open, medium, or comfortable closer hold.
-- Teach one timing game: slow, two quicker steps, return to slow.
+- Bring Basic 3 plus balança into the partnered connection.
+- Repeat enough times for students to settle into the shared movement.
 
 Student task:
 
-- Keep steps small, maintain balance, and change timing without adding a new figure.
+- Dance Basic 3 plus balança while keeping the same weight-transfer quality used in the solo section.
 
 Success signal:
 
-- Students stay on the pulse and respect their partner's connection choice.
+- Couples travel, rock, and recover together without arm-led force.
 
-### 55 to 59 minutes: Independent social dance
+### 30 to 34 minutes: Slow marca reset
 
 Purpose:
 
-- Let students experience dancing without constant instruction.
+- Give students a reliable way to finish, pause, or restart the movement.
 
 Teacher actions:
 
-- Limit prompts to Basic 1, Basic 2, quarter-turn, and the timing choice.
-- Circulate and support quietly.
+- Show how slow marca replaces the backward balança.
+- Use it to finish the sequence, pause, reconnect, or restart.
 
 Student task:
 
-- Dance using the available choices.
+- Practise choosing slow marca instead of the backward balança and restart from balance.
 
 Success signal:
 
-- Most couples dance continuously for several minutes.
+- Couples stop and restart cleanly without collapsing the frame or losing the pulse.
 
-### 59 to 60 minutes: Closing and course invitation
+### 34 to 38 minutes: Rotation
 
 Purpose:
 
-- Connect the experience to Level 1.
+- Add one visible directional change from familiar material.
 
 Teacher actions:
 
-- Recap walking, timing, connection, direction, and musical choice.
-- Explain the next course step and enrolment route.
+- Add one controlled rotation from the familiar base.
+- Keep the rotation optional for students who do not yet feel stable.
+- Prioritise balance and floorcraft over size.
 
 Student task:
 
-- Ask questions and decide whether to join Level 1.
+- Add the rotation when stable, or continue the familiar base without it.
 
 Success signal:
 
-- Students understand what happens next.
+- Students who use the rotation remain balanced and return to the shared flow cleanly.
 
-## Teacher responsibilities
+### 38 to 45 minutes: Final slow song and partner changes
 
-### Rovigo
+Purpose:
 
-- Lead the main instruction.
-- Demonstrate the leader role.
-- Manage room timing and transitions.
-- Support leaders during practice.
+- Turn the class material into a short social-dance experience and connect it to Level 1.
 
-### Jenna
+Teacher actions:
 
-- Demonstrate the follower role.
-- Observe follower balance and timing.
-- Support students during rotations.
-- Demonstrate from the opposite side of the room when visibility requires it.
+- Change to a slower song.
+- Rotate partners during the section.
+- Ask every new partnership to start with Basic 1.
+- Prompt progression into Basic 2, Basic 3 plus balança, slow marca, and rotation.
+- Finish with a short invitation to the eight-week course.
+
+Student task:
+
+- Start each new partner with Basic 1, then choose from Basic 2, Basic 3 plus balança, slow marca, and rotation.
+
+Success signal:
+
+- Most couples keep dancing through partner changes and use several class elements without following a fixed choreography.
 
 ## Partner rotation
 
-- Rotate after the Basic 2 partner game.
-- Rotate after Basic 2 in open hold.
-- Use one clear direction for every rotation.
-- Ask unmatched students to join the outside of the rotation.
-- When role numbers are uneven, teachers join temporarily and students rotate through a short waiting position.
+- Partner changes begin during Couples, Basic 1.
+- Continue partner changes through the final slow-song section.
+- Use one clear rotation direction.
+- Ask every new partnership to begin with Basic 1 before progressing.
+- Teachers join temporarily when role numbers are uneven.
 
 ## Music plan
 
 | Section | Music quality | Target energy |
 |---|---|---|
-| Walking and Basic 2 | Upbeat with a clear pulse | High |
-| Basic 1 | Clear and grounded | Medium |
-| Rotation | Clear phrasing | Medium |
-| Final section | Slower and spacious | Low to medium |
+| Solo foundations | Clear pulse | Medium |
+| Basic 2 approach | Upbeat Semba | High and playful |
+| Close hold and partnered foundations | Pause music for setup, then clear Kizomba | Medium |
+| Final social flow | Slower Kizomba | Low to medium |
 
 ## Common errors
 
 - Partial weight transfer
 - Steps becoming too large
-- Pulling through the arms
-- Followers anticipating
+- Losing the rhythm while travelling in Basic 3
+- Treating balança as a tap instead of a weight-transfer action
+- Pulling through the arms in close hold
+- Leaning body weight onto the partner
+- Followers anticipating the next movement
 - Leaders changing movement too quickly
-- Students losing the pulse during rotation
-- Students leaning during closer connection
+- Rotation becoming too large for the available floor space
 
 ## Safety and consent
 
-- Closer connection remains optional.
-- Open hold remains valid throughout.
+- Personal-space expectations are established before partner work.
 - Each student maintains personal balance.
+- Connection stays relaxed rather than compressed or forced.
+- Students may choose a comfortable connection distance.
+- Rotation remains optional for students who do not yet feel stable.
 - Teachers do not force body position.
-- Students may decline any partner or connection distance.
-- Rotations must preserve personal space.
+- Students may decline any partner change.
 
 ## Adaptations
 
 ### Large class
 
-- Split the room into two facing groups for solo demonstrations.
-- Keep partner rotations short and clearly signposted.
-- Use one teacher as the visual anchor while the other supports the room.
+- Keep solo demonstrations visually simple and use both teachers as reference points.
+- Use one clear direction for partner changes.
+- Keep the Basic 2 approach compact so couples do not cross into neighbouring space.
 
 ### Uneven leader and follower numbers
 
-- Use a short waiting position within the rotation.
 - Teachers join the rotation where useful.
+- Use a short waiting position if required.
 - Avoid leaving the same students without a partner repeatedly.
 
 ### Students struggling
 
-- Remove the quarter-turn.
-- Extend Basic 1 and Basic 2 practice.
-- Keep the final independent dance focused on two movements.
+- Keep Basic 3 shorter and reduce travel.
+- Practise forward balança before adding backward balança.
+- Keep rotation optional.
+- Use Basic 1 and slow marca as frequent resets.
 
 ### Students progressing quickly
 
-- Add timing constraints or alternative exits.
-- Do not add an unrelated figure.
+- Ask them to reduce movement size and make transitions cleaner.
+- Ask them to choose when to use slow marca rather than repeating the sequence automatically.
+- Add musical intention or cleaner floorcraft instead of an unrelated figure.
 
 ## Success measures
 
 ### During the class
 
-- Most students maintain the pulse.
-- Most students complete Basic 1 and Basic 2.
-- Students change between both without stopping.
-- Students dance independently for several minutes.
-- Connection remains comfortable and controlled.
+- Most students maintain the pulse during Basic 2 and Basic 3.
+- Most students show clear weight transfer in balança.
+- Couples establish comfortable close hold without leaning.
+- Students use slow marca to stop and restart.
+- Stable students complete one controlled rotation.
+- The final section runs as continuous social dancing rather than a teacher-led sequence.
 
 ### After the class
 
@@ -379,26 +398,25 @@ Success signal:
 
 ## Instructor preparation references
 
-This reference supports instructor preparation. It does not replace the Open Night sequence, compact movement range, connection standards, or consent guidance.
+This reference supports instructor preparation. It does not replace the approved 45-minute sequence, movement order, connection standards, or consent guidance.
 
 1. [Basic Steps of Kizomba and Semba](https://www.youtube.com/watch?v=ORiPx2ceaYE)
-   - Use as an orientation reference for walking, Marca, Basic 1, Basic 2, and the clockwise Estrela.
-   - Select only the sections needed for this class. Keep the Tribe sequence and Basic 2-first order.
+   - Use as an orientation reference for walking, Marca, Basic 1, Basic 2, and clockwise movement.
+   - Select only the sections relevant to the approved Open Night sequence.
 
 ## Open questions and test points
 
-- Does Basic 2 first create faster engagement than Basic 1 first?
-- Is the quarter-turn achievable within the available time?
-- Does the timing game add value or create overload?
-- How many partner rotations feel appropriate?
-- Does the final independent dance need more time?
-- Which music transition produces the clearest emotional contrast?
+The class sequence is approved. Use the review log to capture live delivery evidence without changing the curriculum automatically.
+
+- Does the solo section fit comfortably inside the first 13 minutes?
+- Does the Basic 2 approach create enough playful interaction before close hold?
+- Do students transfer balança from solo practice into close hold without losing weight-transfer quality?
+- Is four minutes enough to establish close hold and posture?
+- Does slow marca function as an intuitive reset for complete beginners?
+- Does the optional rotation fit without reducing the final social-dance time?
+- How many partner changes fit naturally between minutes 21 and 45?
 
 ## Links
-
-Previous experience:
-
-- Salsa and Bachata Open Night sessions
 
 Next course:
 
@@ -406,6 +424,8 @@ Next course:
 
 Related files:
 
+- `README.md`
+- `review-log.md`
+- `../../DECISIONS.md`
 - `../../curriculum/`
 - `../level-1/`
-- `review-log.md`

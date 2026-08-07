@@ -2,13 +2,14 @@
 
 ## Purpose
 
-The Kizomba Open Night is a 60-minute introductory class delivered before each eight-week teaching cycle.
+The Kizomba Open Night is an approved 45-minute introductory class delivered before each eight-week teaching cycle.
 
 Its goals are to:
 
 - Give complete beginners a successful first Kizomba experience.
-- Introduce walking, weight transfer, partner connection, and musical contrast.
-- Show how Kizomba differs in feeling from the Salsa and Bachata Open Night classes.
+- Build solo rhythm and weight transfer before partner connection.
+- Introduce Basic 1, Basic 2, Basic 3, balança, slow marca, and one controlled rotation.
+- Move from playful Semba energy into slower connected Kizomba.
 - Prepare interested students for Level 1.
 - Support enrolment into the next teaching cycle.
 
@@ -16,11 +17,11 @@ Its goals are to:
 
 The Open Night is not part of the eight-week Level 1 curriculum.
 
-It previews selected Level 1 foundations without attempting to teach the full syllabus.
+It previews selected Level 1 foundations through a compact 45-minute experience.
 
 ## Source of truth
 
-The current class plan is:
+The approved class plan is:
 
 - `kizomba-open-night.md`
 
@@ -28,4 +29,4 @@ Observations from live sessions are recorded in:
 
 - `review-log.md`
 
-Significant approved changes should also be recorded in the project `CHANGELOG.md`.
+Significant approved changes should also be recorded in the project `CHANGELOG.md` and `DECISIONS.md`.

@@ -25,4 +25,19 @@ if (!index.includes('https://www.youtube-nocookie.com/embed/')) throw new Error(
 if (index.includes('const videos={')) throw new Error('index.html contains a hardcoded video map.');
 if (!index.includes("const state={level:0,lesson:'open-night'}")) throw new Error('Open Night is not the default lesson.');
 
-console.log(`Validated 17 classes and ${expectedIds.length} required video references.`);
+const openNightChecks = [
+  'A 45-minute first Kizomba experience.',
+  'Solo, Basic 3',
+  'Solo, balança',
+  'Couples, Basic 3 plus balança',
+  'Slow marca reset',
+  'Final slow song and partner changes',
+  "lesson.level===0?'45 minutes':'60 minutes'",
+  "lesson.level===0?'45-minute':'60-minute'",
+];
+
+for (const check of openNightChecks) {
+  if (!index.includes(check)) throw new Error(`index.html is missing required Open Night content: ${check}`);
+}
+
+console.log(`Validated 17 classes, ${expectedIds.length} required video references, and the approved 45-minute Open Night.`);
