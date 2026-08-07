@@ -9,6 +9,7 @@
 - Set Basic 1 as the starting and reset point for every new partner.
 - Updated the Open Night review log, programme decisions, repository guidance, and release checks to match the 45-minute plan.
 - Added a deterministic Open Night post-build step and automated main-branch rebuild so the generated teaching guide stays aligned with the canonical Markdown.
+- Activated the main-branch generated-site rebuild so connector-based curriculum updates produce a validated `index.html` before production verification.
 
 ## 2026-08-05
 
