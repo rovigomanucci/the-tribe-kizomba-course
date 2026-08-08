@@ -1,4 +1,4 @@
-name: Rebuild teaching guide
+name: Validate teaching guide
 
 on:
   push:
@@ -9,14 +9,29 @@ on:
       - 'curriculum/**'
       - 'library/**'
       - 'scripts/**'
+      - 'index.html'
       - 'README.md'
       - 'DECISIONS.md'
       - 'CHANGELOG.md'
       - 'DEPLOYMENT.md'
       - 'AGENTS.md'
+      - '.github/workflows/rebuild-site.yml'
+  pull_request:
+    paths:
+      - 'classes/**'
+      - 'curriculum/**'
+      - 'library/**'
+      - 'scripts/**'
+      - 'index.html'
+      - 'README.md'
+      - 'DECISIONS.md'
+      - 'CHANGELOG.md'
+      - 'DEPLOYMENT.md'
+      - 'AGENTS.md'
+      - '.github/workflows/rebuild-site.yml'
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   rebuild:
@@ -32,30 +47,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Build teaching guide
-        run: node scripts/build-site.mjs
+      - name: Build and validate teaching guide
+        run: node scripts/check-site.mjs
 
-      - name: Apply Open Night metadata
-        run: node scripts/patch-open-night.mjs
-
-      - name: Validate generated guide
-        run: node scripts/validate-site.mjs
-
-      - name: Confirm reproducible generation
-        run: |
-          cp index.html /tmp/index.html
-          node scripts/build-site.mjs
-          node scripts/patch-open-night.mjs
-          cmp /tmp/index.html index.html
-
-      - name: Commit generated guide
-        run: |
-          if git diff --quiet -- index.html; then
-            echo "index.html is already current"
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html
-          git commit -m "Rebuild teaching guide"
-          git push
+      - name: Confirm committed guide is current
+        run: git diff --exit-code -- index.html

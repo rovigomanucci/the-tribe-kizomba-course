@@ -54,30 +54,26 @@ Every class gives students a recognisable move or movement family. The move acts
 - `templates/`: reusable planning and review templates
 - `outputs/`: final human-facing artifacts
 - `index.html`: deployed interactive curriculum artifact
-- `scripts/build-site.mjs`: rebuilds the web artifact from the canonical Markdown class files
-- `scripts/patch-open-night.mjs`: applies Open Night-specific 45-minute metadata and display rules after the shared site build
-- `.github/workflows/rebuild-site.yml`: regenerates and commits `index.html` after canonical source changes on `main`
+- `scripts/build-site.mjs`: rebuilds the complete web artifact, including Open Night rules, from canonical Markdown
+- `scripts/check-site.mjs`: builds, validates, and proves reproducible generation
+- `scripts/verify-production.mjs`: proves production serves the exact committed `index.html`
+- `.github/workflows/rebuild-site.yml`: checks the committed guide on pushes to `main` and pull requests
 
 ## Rebuild the web artifact
 
-The Markdown class files are canonical. `scripts/build-site.mjs` reads them and generates `index.html`. The Open Night has a different duration and teaching model from the 60-minute weekly classes, so `scripts/patch-open-night.mjs` runs immediately after each shared build.
+The Markdown class files are canonical. `scripts/build-site.mjs` reads them and generates `index.html`. The generator handles both the 45-minute Open Night and the 60-minute weekly classes.
 
 Do not edit `index.html` directly.
 
 After changing curriculum content, videos, or the site generator, run:
 
 ```bash
-node scripts/build-site.mjs
-node scripts/patch-open-night.mjs
-node scripts/validate-site.mjs
-node scripts/build-site.mjs
-node scripts/patch-open-night.mjs
-git diff --exit-code -- index.html
+node scripts/check-site.mjs
 ```
 
-The last command proves the generated artifact is reproducible.
+Review the resulting `index.html` diff, then commit it with the source changes.
 
-On `main`, `.github/workflows/rebuild-site.yml` performs the same generation and validation and commits `index.html` when the canonical source changed it.
+On `main` and pull requests, `.github/workflows/rebuild-site.yml` performs the same checks and fails when the committed `index.html` is stale. It never changes files or deploys the site.
 
 ## Video update map
 
@@ -85,13 +81,13 @@ On `main`, `.github/workflows/rebuild-site.yml` performs the same generation and
 |---|---|---|
 | Add or replace a class video | Relevant file in `classes/` and `library/video-reference-library.md` | `index.html` |
 | Change curriculum content | Relevant file in `classes/`, plus a curriculum overview when course structure changes | `index.html` |
-| Change teaching-guide layout or behaviour | `scripts/build-site.mjs` or Open Night post-build logic | `index.html` |
+| Change teaching-guide layout or behaviour | `scripts/build-site.mjs` | `index.html` |
 | Change an approved programme decision | `DECISIONS.md`, affected curriculum and class files | `index.html` when visible content changes |
 
 Each embedded video belongs under `Instructor preparation references` in its class file. The generator reads this section. There is no separate video map in the generator.
 
 ## Publishing
 
-GitHub `main` is the production source. Vercel publishes the generated root `index.html` at the production teaching guide.
+GitHub `main` is the production source. A push to `main` triggers the connected Vercel project, which publishes the generated root `index.html`.
 
 Follow `DEPLOYMENT.md` for the complete release, verification, fallback, and rollback process.

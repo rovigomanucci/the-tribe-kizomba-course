@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-08-08
+
+- Integrated all Open Night metadata and 45-minute display rules into the main site generator.
+- Removed the separate Open Night patch script and reduced the release check to one command.
+- Changed GitHub Actions to validate the committed teaching guide without creating a second commit.
+- Documented the Vercel Git connection gate, connector-access distinction, GitHub publishing fallback, manual Vercel fallback, and exact production comparison.
+
 ## 2026-08-07
 
 - Finalised the Kizomba Open Night as an approved 45-minute curriculum.

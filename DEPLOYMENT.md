@@ -9,35 +9,59 @@
 
 GitHub `main` is the production source. Do not deploy a local-only or stale version.
 
+## Connection gate
+
+Before changing release files, confirm the production project in the Vercel dashboard has:
+
+- Git repository: `rovigomanucci/the-tribe-kizomba-course`
+- Production branch: `main`
+- Production domain: `the-tribe-kizomba-course.vercel.app`
+
+The Vercel dashboard Git connection and an AI agent's Vercel connector are separate. An agent connector showing zero projects does not prove the dashboard Git connection is broken. Use the dashboard project settings and the production deployment list as the authority.
+
+If the repository was connected after the latest GitHub commit, Vercel needs a new push to start its first Git deployment. Prefer the next real verified release commit. Use an empty trigger commit only when no content change remains to push.
+
 ## Release checklist
 
 1. Fetch the remote repository.
 2. Confirm the checkout matches the latest `origin/main` and has no unrelated changes.
 3. Update canonical Markdown before generated files.
-4. Run:
+4. Run the complete local check:
 
    ```bash
-   node scripts/build-site.mjs
-   node scripts/patch-open-night.mjs
-   node scripts/validate-site.mjs
-   node scripts/build-site.mjs
-   node scripts/patch-open-night.mjs
-   git diff --exit-code -- index.html
+   node scripts/check-site.mjs
    ```
 
 5. Review the complete diff. Confirm `index.html` reflects the Markdown changes.
-6. When working locally, commit all related source and generated files together and push to `main`.
-7. When source changes are committed through the GitHub connector, `.github/workflows/rebuild-site.yml` regenerates and validates `index.html`, then commits the generated file to `main` when needed.
-8. Confirm the final `main` commit contains the generated `index.html` and Vercel publishes that state.
+6. Commit all related source files and generated `index.html` together.
+7. Push the verified commit to `main`. Vercel's Git integration starts the production deployment.
+8. Confirm the GitHub `Validate teaching guide` check passes. This workflow validates only. It does not change files or deploy.
+9. Confirm the Vercel deployment references the final GitHub commit.
+10. From a clean checkout of that commit, run `node scripts/verify-production.mjs`.
+
+## GitHub authentication fallback
+
+Use one publishing route for the full release:
+
+1. Prefer authenticated local Git when `git push` works.
+2. If local Git or GitHub CLI lacks credentials, use the connected GitHub app.
+3. Through the app, publish the exact locally verified source files and `index.html` as one commit on top of the latest `main` SHA.
+4. Recheck the remote head before writing. Stop if `main` advanced after validation.
+5. Never mix a partial local push with a second connector commit.
+6. Never expect GitHub Actions to generate or commit a missing `index.html`.
 
 ## Manual Vercel fallback
 
-Use the connected Vercel project only when the GitHub push does not start a production deployment.
+Use a direct Vercel deployment only when the GitHub push does not start a production deployment and the correct project is accessible.
 
-1. Deploy the repository state from the verified GitHub `main` commit.
-2. Target the existing `the-tribe-kizomba-course` project and production environment.
-3. Do not deploy from a checkout with local differences from GitHub `main`.
-4. Record the manual deployment in `CHANGELOG.md` only when the release process itself changed or failed in a way future agents need to know.
+1. Confirm GitHub `main` contains the verified commit and the committed `index.html`.
+2. Use a clean checkout where `HEAD` equals `origin/main` and `git status --porcelain` is empty.
+3. Link the checkout to the existing `the-tribe-kizomba-course` project in the correct Vercel team. Never create a replacement project.
+4. Obtain the team and project IDs through `vercel link` or the Vercel project settings. The local `.vercel/project.json` stores them and must remain uncommitted.
+5. Deploy with `vercel deploy --prod`, or use the connected Vercel app against the same existing project.
+6. Confirm the deployment's Git SHA or source matches the verified GitHub commit.
+7. Run `node scripts/verify-production.mjs` and complete the visual checks below.
+8. If the Vercel app shows zero projects, stop using that app for deployment. This indicates connector access to a different team, not permission to create a new project.
 
 ## Production verification
 
@@ -53,6 +77,7 @@ After Vercel reports the deployment ready:
 8. Test lesson navigation, search, teaching notes, and mobile layout.
 9. Compare the deployed content with the final committed `index.html` using the unique Open Night 45-minute text and timeline phases.
 10. Check deployment or workflow logs for errors.
+11. Run `node scripts/verify-production.mjs` to compare the deployed file with local `index.html` byte for byte.
 
 Do not report success until the production domain serves the verified content.
 
@@ -62,5 +87,5 @@ If production fails:
 
 1. Repoint production to the last known good Vercel deployment when available.
 2. Revert the faulty GitHub commit with a new commit. Do not rewrite shared history.
-3. Rebuild, patch, and validate again.
+3. Run `node scripts/check-site.mjs` again.
 4. Deploy the corrected `main` commit and repeat the production checklist.

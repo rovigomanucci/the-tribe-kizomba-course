@@ -91,12 +91,12 @@ When editing:
 2. Update `DECISIONS.md` only when an approved decision changes.
 3. Add a concise entry to `CHANGELOG.md` for significant changes.
 4. Never edit `index.html` by hand.
-5. Run `node scripts/build-site.mjs`.
-6. Run `node scripts/patch-open-night.mjs`.
-7. Run `node scripts/validate-site.mjs`.
-8. Run the build and Open Night patch again, then confirm `git diff --exit-code -- index.html` returns no difference.
-9. Commit the canonical source, scripts, documentation, and generated `index.html` together when working locally.
-10. When changes are committed directly through the GitHub connector, allow `.github/workflows/rebuild-site.yml` to produce the generated `index.html` commit, then verify that generated commit before reporting success.
+5. Run `node scripts/check-site.mjs`.
+6. Review the generated `index.html` diff.
+7. Commit the canonical source, scripts, documentation, and generated `index.html` together.
+8. Push one verified commit to `main`. The GitHub workflow checks the build but does not modify repository files.
+9. If local Git lacks credentials, use the connected GitHub app to publish the same verified file set as one commit. Do not omit `index.html`.
+10. Confirm Vercel deployed the final `main` commit, then run `node scripts/verify-production.mjs` from a clean checkout of that commit.
 
 ## Video rules
 
@@ -112,5 +112,7 @@ When editing:
 
 - GitHub `main` is the production source.
 - Vercel production must deploy the final verified `main` commit containing the generated `index.html`.
+- The normal release path is one push to `main`, followed by Vercel's Git deployment.
+- The GitHub workflow validates the committed artifact. It does not deploy or create a second commit.
 - Follow `DEPLOYMENT.md` for production verification and rollback.
 - Never deploy from a stale, detached, or modified checkout.
